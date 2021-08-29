@@ -1,14 +1,23 @@
 1. APT 
 
+** Advanced Persistent Threat – APT hay còn gọi là các cuộc tấn công chủ đích 
+
 ** Mục Tiêu:
-	- Tấn công vào tổ chức tư nhân, cơ quan nhà nước có liên quan đên kinh
-doanh hoặc liên quan đến chính trị
+	-  mục tiêu vào mạng hoặc các máy tính riêng lẻ, máy tính cá nhân được bảo vệ kém nhất, tấn công chủ đích tìm kiếm cơ hội xâm nhập hệ thống
+Có liên quan vào tổ chức tư nhân, cơ quan nhà nước có liên quan đên kinh doanh hoặc liên quan đến chính trị.
 
-** Mục Đích:
-	- Thu thập thông tin tình báo có tính chất thù địch.
+** Mục Đích:	
+    - Bị đánh cắp tài sản trí tuệ (ví dụ: bí mật thương mại hoặc bằng sáng chế…)
+    - Thông tin nhạy cảm bị xâm nhập (ví dụ: dữ liệu các nhân và nhân viên…)
+    - Cơ sở hạ tầng quan trọng của tổ chức bị phá hủy (ví dụ: cơ sở dữ liệu, máy chủ quản trị…)
+    - Chiếm đoạt toàn bộ tên miền của tổ chức
+    
+** kỹ thuật tấn công phổ biến:
+    - Các kỹ thuật tấn công phổ biến như: RFI, SQL injection, XSS, lừa đảo
+    
+    
+2. Tiến trình của một cuộc tấn công APT
+	Giai đoạn 1: Xâm nhập
+	Giai đoạn 2: Mở rộng phạm vi
+	Giai đoạn 3: Khai thác
 
-	- Đánh cắp dữ liệu và bán lại bí mật kinh doanh cho các đối thủ.
-
-	- Làm mất uy tín của cơ quan tổ chức.
-
-	- Phá hoại, gây bất ổn hạ tầng CNTT, viễn thông, điện lực,
