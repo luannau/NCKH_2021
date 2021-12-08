@@ -1,0 +1,13 @@
+- How about module detect APT
+1. thu thap : collection
+    - thu thap, tim kiem du lieu phu hop 
+    - ho tro cho viec traning, tessting
+2. so che: preprocessing
+    - lam sach du lieu, lay nhung du lieu can thiet
+    - tu bo du lieu lam sach, khai thac tinh nang
+3. phan vung: partitioning
+    - tien hanh testing va training de vuot qua bai kiem tra 
+4. phan loai: classifiers
+5. phuong thuc danh gia: evaluation method
+6. ket qua thuc nghiem: experimental results
+7. khai thac tinh nang tu machine learning: feature extraction by machine learning
